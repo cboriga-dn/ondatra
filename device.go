@@ -79,6 +79,8 @@ const (
 	NOKIA = Vendor(opb.Device_NOKIA)
 	// ARUBA vendor.
 	ARUBA = Vendor(opb.Device_ARUBA)
+	// DRIVENETS vendor.
+	DRIVENETS = Vendor(opb.Device_DRIVENETS)
 )
 
 // String returns the name of the vendor.
